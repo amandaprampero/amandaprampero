@@ -33,27 +33,10 @@ Estou sempre em busca de novos aprendizados para expandir minhas habilidades. So
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=amandaprampero&show_icons=true&theme=material-palenight&include_all_commits=true&locale=pt-br#gh-dark-mode-only" 
   />
-
-  <img 
-    align="left" 
-    alt="GitHub Stats Light Mode" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=amandaprampero&show_icons=true&theme=buefy&include_all_commits=true&locale=pt-br#gh-light-mode-only" 
-  />
-
 <img 
       align="left" 
       alt="GitHub Top Languages Dark Mode" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaprampero&theme=material-palenight&layout=compact&custom_title=Tecnologias&langs_count=3#gh-dark-mode-only" 
   />
-
-  <img 
-      align="left" 
-      alt="GitHub Top Languages Light Mode" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaprampero&layout=compact&theme=buefy&custom_title=Tecnologias&langs_count=3#gh-light-mode-only" 
-  />
-
 </p>
