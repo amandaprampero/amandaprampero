@@ -28,6 +28,7 @@ Estou sempre em busca de novos aprendizados para expandir minhas habilidades. So
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    width="48%"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=amandaprampero&show_icons=true&theme=material-palenight&include_all_commits=true&locale=pt-br" 
   />
@@ -36,7 +37,7 @@ Estou sempre em busca de novos aprendizados para expandir minhas habilidades. So
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      style="padding-right: 10px;" 
+      width="48%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaprampero&theme=material-palenight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
