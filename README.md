@@ -23,39 +23,16 @@ Estou sempre em busca de novos aprendizados para expandir minhas habilidades. So
 
 ### Atividade
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div>
+  <a href="https://github.com/amandaprampero">
   <img 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="180"
     src="https://github-readme-stats.vercel.app/api?username=amandaprampero&show_icons=true&theme=material-palenight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaprampero&theme=material-palenight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
-
-
-<!--
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    width="48%"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=amandaprampero&show_icons=true&theme=material-palenight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      width="48%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaprampero&theme=material-palenight&layout=compact&custom_title=Tecnologias&langs_count=3" 
-  />
-
-</p>
--->
