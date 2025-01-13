@@ -21,8 +21,6 @@ Estou sempre em busca de novos aprendizados para expandir minhas habilidades. So
 [![Languages](https://skillicons.dev/icons?i=c,html,css,javascript,java,figma,python,github,git)](https://skillicons.dev)
 
 
-<br/>
-
 ### Atividade
 
 <p>
@@ -38,6 +36,7 @@ Estou sempre em busca de novos aprendizados para expandir minhas habilidades. So
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaprampero&theme=material-palenight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
