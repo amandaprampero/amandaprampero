@@ -5,7 +5,7 @@
 Estou sempre em busca de novos aprendizados para expandir minhas habilidades. Sou apaixonada por desenvolvimento web e Front-end. Este espaço é dedicado aos meus estudos e projetos da faculdade, além de práticas que realizo para me aprimorar constantemente.
 
 <p align="left">
-  <a href="www.linkedin.com/in/amanda-prampero"><img width="40px" alt="LinkedIn" title="LinkedIn" src="images\linkedin (1).png"/>
+  <a href="https://www.linkedin.com/in/amanda-prampero/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="images\linkedin (1).png"/>
   </a>
   <a href="mailto:amandapramperomendes@gmail.com"><img width="40px" alt="Email" title="Email" src="images\email.png"/></a>
 </p>
