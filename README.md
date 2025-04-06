@@ -12,13 +12,13 @@ Estou sempre em busca de novos aprendizados para expandir minhas habilidades. So
 
 ### Estudos recentes
 - Desenvolvimento web
-- Figma
-- Python
+- JavaScript
+- React
 
 ---
 
 ### Linguagens e Tecnologias
-[![Languages](https://skillicons.dev/icons?i=c,html,css,javascript,java,figma,python,github,git)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,html,css,typescript,javascript,java,react,python,figma,github,git,sass)](https://skillicons.dev)
 
 
 ### Atividade
