@@ -11,14 +11,14 @@ Estou sempre em busca de novos aprendizados para expandir minhas habilidades. So
 </p>
 
 ### Estudos recentes
-- Desenvolvimento web
-- JavaScript
+- C#
+- Angular
 - React
 
 ---
 
 ### Linguagens e Tecnologias
-[![Languages](https://skillicons.dev/icons?i=c,html,css,typescript,javascript,java,react,python,figma,github,git,sass)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cs,html,css,typescript,javascript,java,react,angular,npm,dotnet,postman,python,figma,github,git,sass,materiaui)](https://skillicons.dev)
 
 
 ### Atividade
